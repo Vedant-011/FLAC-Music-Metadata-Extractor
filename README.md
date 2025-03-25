@@ -1,6 +1,6 @@
 # FLAC-Music-Metadata-Extractor
 
-A simple Windows app to extract metadata and album art from FLAC files.  
+A simple Windows app to extract metadata and album art from FLAC music files.  
 
 ## **Features**  
 ✔ Select a folder with FLAC files  
